@@ -28,7 +28,7 @@ id | Nombre estudiante  | Equipo | Página personal
 22 | KIM                |   |  
 23 | SERGIO             |   |  
 24 | ALVARO             |   |  
-25 | JOSE FRANCISCO     |   |  
+25 | JOSE FRANCISCO     |   Pole  | https://github.com/jfrz38
 26 | NURSULTAN          |   |  
 27 | FRANCISCO JESUS    |   |  
 28 | ANDREI             |   |  
